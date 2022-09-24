@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Mehrshadee
-- 👀 I’m interested in b
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in back-end developing
 - 📫 you can be in touch with me via Mehrshad.esk.ee@gmail.com
 
 <!---
